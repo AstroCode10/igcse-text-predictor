@@ -1,6 +1,6 @@
 # IGCSE English Language A (Edexcel IGCSE) – 2026 Text Predictor
 
-A machine learning ranking model designed to estimate the probability of specific **non-fiction texts** appearing in the **May/June 2026 Edexcel IGCSE English Language A examinations (Paper 1 and Paper 2).**
+A machine learning ranking model designed to estimate the probability of specific **non-fiction texts** appearing in the **May/June 2026 Edexcel IGCSE English Language A examinations (Paper 1 and Paper 2).** Data extraction was done completely by the **author**.
 
 The model analyses historical exam patterns and ranks texts based on statistical likelihood using a stability-focused ranking architecture.
 
