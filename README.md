@@ -110,17 +110,6 @@ Time-series cross-validation ensures that training only uses **past exam data** 
 
 ---
 
-## 📚 Future Improvements
-
-Potential enhancements include:
-
-- Incorporating **NLP analysis of passage content**
-- Expanding the dataset with **additional exam boards**
-- Testing **transformer-based ranking models**
-- Feature engineering based on **stylistic patterns in passages**
-
----
-
 ## 📄 License
 
 This project is provided for **educational and research purposes only**.
