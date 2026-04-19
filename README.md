@@ -221,22 +221,6 @@ Predictions should be interpreted as:
 
 ---
 
-## 🚀 Installation
-
-```bash
-git clone https://github.com/yourusername/igcse-english-text-predictor.git
-cd igcse-english-text-predictor
-
----
-
-## ⚠️ Limitations
-
-- The model relies on historical patterns and cannot account for **human examiner discretion**.
-- Predictions should be interpreted as **probabilistic guidance**, not certainty.
-- Dataset size is limited due to the relatively small number of exam sessions available.
-
----
-
 ## 📄 License
 
 This project is provided for **educational and research purposes only**.
@@ -248,3 +232,9 @@ It is not affiliated with or endorsed by **Pearson Edexcel**.
 ## 👤 Author
 
 Developed as an experimental machine learning project exploring predictive modelling on educational assessment patterns.
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/yourusername/igcse-english-text-predictor.git
+cd igcse-english-text-predictor
