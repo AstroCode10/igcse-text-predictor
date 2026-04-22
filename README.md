@@ -236,5 +236,5 @@ Developed as an experimental machine learning project exploring predictive model
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/igcse-english-text-predictor.git
+git clone https://github.com/AstroCode10/igcse-english-text-predictor.git
 cd igcse-english-text-predictor
